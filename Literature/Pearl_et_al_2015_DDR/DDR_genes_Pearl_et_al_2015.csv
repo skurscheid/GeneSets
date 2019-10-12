@@ -1,0 +1,590 @@
+﻿DDR ,Process ,Pathway 1 ,Pathway 2 ,Complex ,Gene ID 
+Repair pathway ,SSR ,BER  ,AP endonucleases ,  ,APEX1 
+Repair pathway ,SSR ,BER ,AP endonucleases ,  ,APEX2 
+Repair pathway ,SSR ,BER ,DNA glycosylases ,  ,MBD4 
+Repair pathway ,SSR ,BER ,DNA glycosylases ,  ,MPG 
+Repair pathway ,SSR ,BER ,DNA glycosylases ,  ,MUTYH 
+Repair pathway ,SSR ,BER ,DNA glycosylases ,  ,NEIL1 
+Repair pathway ,SSR ,BER ,DNA glycosylases ,  ,NEIL2 
+Repair pathway ,SSR ,BER ,DNA glycosylases ,  ,NEIL3 
+Repair pathway ,SSR ,BER ,DNA glycosylases ,  ,NTHL1 
+Repair pathway ,SSR ,BER ,DNA glycosylases ,  ,OGG1 
+Repair pathway ,SSR ,BER ,DNA glycosylases ,  ,SMUG1 
+Repair pathway ,SSR ,BER ,DNA glycosylases ,  ,TDG 
+Repair pathway ,SSR ,BER ,DNA glycosylases ,  ,UNG 
+Repair pathway ,SSR ,BER ,LONG PATCH-BER factors  ,DNA polymerase delta ,POLD1 
+Repair pathway ,SSR ,BER ,LONG PATCH-BER factors  ,DNA polymerase delta ,POLD2 
+Repair pathway ,SSR ,BER ,LONG PATCH-BER factors  ,DNA polymerase delta ,POLD3 
+Repair pathway ,SSR ,BER ,LONG PATCH-BER factors  ,DNA polymerase delta ,POLD4 
+Repair pathway ,SSR ,BER ,LONG PATCH-BER factors  ,DNA polymerase epsilon complex ,FEN1 
+Repair pathway ,SSR ,BER ,LONG PATCH-BER factors  ,DNA polymerase epsilon complex ,LIG1 
+Repair pathway ,SSR ,BER ,LONG PATCH-BER factors  ,DNA polymerase epsilon complex ,PCNA 
+Repair pathway ,SSR ,BER ,LONG PATCH-BER factors  ,  ,HUS1 
+Repair pathway ,SSR ,BER ,LONG PATCH-BER factors  ,  ,PCNA 
+Repair pathway ,SSR ,BER ,LONG PATCH-BER factors  ,  ,WRN 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,ALKBH1 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,APLF 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,APTX 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,GADD45A 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,GADD45G 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,HMGB1 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,HMGB2 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,PARG 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,PARP1 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,PARP2 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,PARP3 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,PARP4 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,PNKP 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,POLE 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,POLH 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,POLL 
+Repair pathway ,SSR ,BER ,Other BER factors ,  ,TDP1 
+Repair pathway ,SSR ,BER ,SHORT PATCH-BER factors,  ,LIG3 
+Repair pathway ,SSR ,BER ,SHORT PATCH-BER factors,  ,POLB 
+Repair pathway ,SSR ,BER ,SHORT PATCH-BER factors,  ,XRCC1 
+Repair pathway ,SSR ,DNA replication ,  ,  ,PIF1 
+Repair pathway ,SSR ,MMR ,DNA polymerase delta ,DNA polymerase delta ,POLD1 
+Repair pathway ,SSR ,MMR ,DNA polymerase delta ,DNA polymerase delta ,POLD2 
+Repair pathway ,SSR ,MMR ,DNA polymerase delta ,DNA polymerase delta ,POLD3 
+Repair pathway ,SSR ,MMR ,DNA polymerase delta ,DNA polymerase delta ,POLD4 
+Repair pathway ,SSR ,MMR ,Mismatch and loop recognition factors ,  ,MSH2 
+Repair pathway ,SSR ,MMR ,Mismatch and loop recognition factors ,  ,MSH3 
+Repair pathway ,SSR ,MMR ,Mismatch and loop recognition factors ,  ,MSH6 
+Repair pathway ,SSR ,MMR ,MutL homologs ,  ,MLH1 
+Repair pathway ,SSR ,MMR ,MutL homologs ,  ,MLH3 
+Repair pathway ,SSR ,MMR ,MutL homologs ,  ,PMS1 
+Repair pathway ,SSR ,MMR ,MutL homologs ,  ,PMS2 
+Repair pathway ,SSR ,MMR ,MutS homologs specialized for meiosis ,  ,MSH4 
+Repair pathway ,SSR ,MMR ,MutS homologs specialized for meiosis ,  ,MSH5 
+Repair pathway ,SSR ,MMR ,Other MMR factors ,  ,EXO1 
+Repair pathway ,SSR ,MMR ,Other MMR factors ,  ,HMGB1 
+Repair pathway ,SSR ,MMR ,Other MMR factors ,  ,HMGB1 
+Repair pathway ,SSR ,MMR ,Other MMR factors ,  ,LIG1 
+Repair pathway ,SSR ,MMR ,Other MMR factors ,  ,PCNA 
+Repair pathway ,SSR ,MMR ,RFC (replication factor C) ,replication factor C subunit 2/4 ,RFC2 
+Repair pathway ,SSR ,MMR ,RFC (replication factor C) ,replication factor C subunit 2/5 ,RFC4 
+Repair pathway ,SSR ,MMR ,RFC (replication factor C) ,replication factor C subunit 3/5 ,RFC3 
+Repair pathway ,SSR ,MMR ,RFC (replication factor C) ,replication factor C subunit 3/5 ,RFC5 
+Repair pathway ,SSR ,MMR ,RFC (replication factor C) ,  ,RFC1 
+Repair pathway ,SSR ,MMR ,RPA (replication factor A) ,  ,RPA1 
+Repair pathway ,SSR ,MMR ,RPA (replication factor A) ,  ,RPA2 
+Repair pathway ,SSR ,MMR ,RPA (replication factor A) ,  ,RPA3 
+Repair pathway ,SSR ,MMR ,RPA (replication factor A) ,  ,RPA4 
+Repair pathway ,SSR ,NER ,DNA polymerase delta ,DNA polymerase delta ,POLD1 
+Repair pathway ,SSR ,NER ,DNA polymerase delta ,DNA polymerase delta ,POLD2 
+Repair pathway ,SSR ,NER ,DNA polymerase delta ,DNA polymerase delta ,POLD3 
+Repair pathway ,SSR ,NER ,DNA polymerase delta ,DNA polymerase delta ,POLD4 
+Repair pathway ,SSR ,NER ,DNA polymerase delta ,Proliferating Cell Nuclear Antigen ,PCNA 
+Repair pathway ,SSR ,NER ,DNA polymerase delta ,Replication factor C ,RFC1 
+Repair pathway ,SSR ,NER ,DNA polymerase delta ,Replication factor C ,RFC2 
+Repair pathway ,SSR ,NER ,DNA polymerase delta ,Replication factor C ,RFC3 
+Repair pathway ,SSR ,NER ,DNA polymerase delta ,Replication factor C ,RFC4 
+Repair pathway ,SSR ,NER ,DNA polymerase delta ,Replication factor C ,RFC5 
+Repair pathway ,SSR ,NER ,DNA polymerase epsilon ,DNA polymerase epsilon ,POLE 
+Repair pathway ,SSR ,NER ,DNA polymerase epsilon ,DNA polymerase epsilon ,POLE2 
+Repair pathway ,SSR ,NER ,DNA polymerase epsilon ,DNA polymerase epsilon ,POLE3 
+Repair pathway ,SSR ,NER ,DNA polymerase epsilon ,DNA polymerase epsilon ,POLE4 
+Repair pathway ,SSR ,NER ,DNA polymerase kappa ,DNA polymerase kappa ,POLK 
+Repair pathway ,SSR ,NER ,GGR (Global genome repair) ,Cul4-CSA Complex ,CUL4A 
+Repair pathway ,SSR ,NER ,GGR (Global genome repair) ,Cul4-CSA Complex ,DDB1 
+Repair pathway ,SSR ,NER ,GGR (Global genome repair) ,Cul4-CSA Complex ,DDB2 
+Repair pathway ,SSR ,NER ,GGR (Global genome repair) ,Cul4-CSA Complex ,RBX1 
+Repair pathway ,SSR ,NER ,GGR (Global genome repair) ,Cul4-CSA Complex ,CUL4A 
+Repair pathway ,SSR ,NER ,GGR (Global genome repair) ,Cul4-DDB2 complex ,DDB1 
+Repair pathway ,SSR ,NER ,GGR (Global genome repair) ,Cul4-DDB2 complex ,DDB2 
+Repair pathway ,SSR ,NER ,GGR (Global genome repair) ,Cul4-DDB2 complex ,RBX1 
+Repair pathway ,SSR ,NER ,GGR (Global genome repair) ,XPC-HR23BCETN2 ,CETN2 
+Repair pathway ,SSR ,NER ,GGR (Global genome repair) ,XPC-HR23BCETN2 ,RAD23B 
+Repair pathway ,SSR ,NER ,GGR (Global genome repair) ,XPC-HR23BCETN2 ,XPC 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,DNA-directed RNA polymerase II complex ,POLR2A 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,DNA-directed RNA polymerase II complex ,POLR2B 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,DNA-directed RNA polymerase II complex ,POLR2C 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,DNA-directed RNA polymerase II complex ,POLR2D 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,DNA-directed RNA polymerase II complex ,POLR2E 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,DNA-directed RNA polymerase II complex ,POLR2F 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,DNA-directed RNA polymerase II complex ,POLR2G 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,DNA-directed RNA polymerase II complex ,POLR2H 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,DNA-directed RNA polymerase II complex ,POLR2I 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,DNA-directed RNA polymerase II complex ,POLR2J 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,DNA-directed RNA polymerase II complex ,POLR2K 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,DNA-directed RNA polymerase II complex ,POLR2L 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,Other TCR Factors ,CUL3 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,Other TCR Factors ,CUL5 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,Other TCR Factors ,ERCC1 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,Other TCR Factors ,ERCC4  
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,Other TCR Factors ,ERCC5  
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,Other TCR Factors ,LIG1 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,Other TCR Factors ,TCEB1 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,Other TCR Factors ,TCEB2 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,Other TCR Factors ,TCEB3 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,Other TCR Factors ,UVSSA 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,Other TCR Factors ,XPA 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,RPA (replication factor A) ,RPA1 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,RPA (replication factor A) ,RPA2 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,RPA (replication factor A) ,RPA3 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,RPA (replication factor A) ,RPA4 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,TFIIH ,CDK7 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,TFIIH ,ERCC2 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,TFIIH ,ERCC3 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,TFIIH ,GTF2H1 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,TFIIH ,GTF2H2 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,TFIIH ,GTF2H3 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,TFIIH ,GTF2H4 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,TFIIH ,GTF2H5 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,TFIIH ,MNAT1 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,  ,ERCC6  
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,  ,ERCC8  
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,  ,LIG3 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,  ,RAD23A 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,  ,XAB2 
+Repair pathway ,SSR ,NER ,TCR (Transcription coupled repair) ,  ,XRCC1 
+Repair pathway ,SSR ,NER ,  ,  ,GADD45A 
+Repair pathway ,SSR ,NER ,  ,  ,GADD45G 
+Repair pathway ,SSR ,Other SSR genes ,  ,  ,OBFC2B 
+Repair pathway ,SSR ,Direct Repair ,  ,  ,ALKBH2 
+Repair pathway ,SSR ,Direct Repair ,  ,  ,ALKBH3 
+Repair pathway ,SSR ,Direct Repair ,  ,  ,MGMT 
+Repair pathway ,DSR ,Alt-NHEJ ,  ,  ,LIG1 
+Repair pathway ,DSR ,Alt-NHEJ ,  ,  ,LIG3 
+Repair pathway ,DSR ,Alt-NHEJ ,  ,  ,PARP1 
+Repair pathway ,DSR ,Alt-NHEJ ,  ,  ,XRCC1 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,Bloom's syndrome complex (BTR) ,BLM 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,Bloom's syndrome complex (BTR) ,RMI2 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,Bloom's syndrome complex (BTR) ,TOP3A 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,Bloom's syndrome complex (BTR) ,TOP3B 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,Downstream FA components ,BARD1 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,Downstream FA components ,BRCA1 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,Downstream FA components ,BRCA2 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,Downstream FA components ,BRIP1 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,Downstream FA components ,PALB2 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FA core complex ,FAAP100 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FA core complex ,FAAP24 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FA core complex ,FANCA 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FA core complex ,FANCB 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FA core complex ,FANCC 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FA core complex ,FANCE 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FA core complex ,FANCF 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FA core complex ,FANCG 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FA core complex ,FANCL 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FA core complex ,FANCM 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FA core complex binding factors ,APITD1 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FA core complex binding factors ,HES1 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FA core complex binding factors ,STRA13 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FA core complex binding factors ,UBE2T 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FANCD2-I complex ,FANCD2 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,FANCD2-I complex ,FANCI 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,  ,BRE 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,  ,CCDC98 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,  ,DNA2 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,  ,FAN1 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,  ,HELQ 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,  ,KAT5 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,  ,RAD51 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,  ,RAD51C 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,  ,TELO2 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,  ,USP1 
+Repair pathway ,DSR ,FA (Fanconi anemia pathway) ,  ,  ,WDR48 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,Bloom's syndrome complex (BTR) ,BLM 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,Bloom's syndrome complex (BTR) ,RMI2 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,Bloom's syndrome complex (BTR) ,TOP3A 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,Bloom's syndrome complex (BTR) ,TOP3B 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,MRN Complex ,MRE11A 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,MRN Complex ,NBN 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,MRN Complex ,RAD50 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,Protein phosphatase 4 ,PPP4C 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,Protein phosphatase 4 ,PPP4R1 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,Protein phosphatase 4 ,PPP4R2 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,Protein phosphatase 4 ,PPP4R4 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,Rad52 family proteins ,RAD52 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,Rad52 family proteins ,RDM1 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,Rad54 family proteins ,RAD54L 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,Rad54 family proteins ,RAD54L 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,Rad54 family proteins ,RAD54L 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,RecA family proteins ,RAD51 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,RecA family proteins ,RAD51B 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,RecA family proteins ,RAD51C 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,RecA family proteins ,RAD51D 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,RecQ family DNA helicases ,BLM 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,RecQ family DNA helicases ,RECQL 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,RecQ family DNA helicases ,RECQL4 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,RecQ family DNA helicases ,RECQL5 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,RecQ family DNA helicases ,WRN 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,RPA (replication factor A) ,RPA1 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,RPA (replication factor A) ,RPA2 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,RPA (replication factor A) ,RPA3 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,RPA (replication factor A) ,RPA4 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,SMC5/6 ,EID3 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,SMC5/6 ,NDNL2 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,SMC5/6 ,NFATC2IP 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,SMC5/6 ,NSMCE1 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,SMC5/6 ,NSMCE2 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,SMC5/6 ,NSMCE4A 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,SMC5/6 ,PAXIP1 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,SMC5/6 ,SMC5 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,SMC5/6 ,SMC6 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,BRCA1 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,BRCA2 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,EME1 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,EME2 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,GEN1 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,H2AFX 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,HELQ 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,HFM1 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,KAT5 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,MUS81 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,PARG 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,RAD54B 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,SHFM1 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,SLX1A 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,SLX4 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,SPO11 
+Repair pathway ,DSR ,HR (Homologous Recombination) ,  ,  ,UIMC1 
+Repair pathway ,DSR ,NHEJ ,  ,Chromatic processing ,APLF 
+Repair pathway ,DSR ,NHEJ ,  ,Chromatic processing ,ATM 
+Repair pathway ,DSR ,NHEJ ,  ,Chromatic processing ,MDC1 
+Repair pathway ,DSR ,NHEJ ,  ,Chromatic processing ,MRE11A 
+Repair pathway ,DSR ,NHEJ ,  ,Chromatic processing ,NBN 
+Repair pathway ,DSR ,NHEJ ,  ,Chromatic processing ,PARP3 
+Repair pathway ,DSR ,NHEJ ,  ,Chromatic processing ,RAD50 
+Repair pathway ,DSR ,NHEJ ,  ,Chromatic processing ,RNF168 
+Repair pathway ,DSR ,NHEJ ,  ,Chromatic processing ,RNF8 
+Repair pathway ,DSR ,NHEJ ,  ,Chromatic processing ,TP53BP1 
+Repair pathway ,DSR ,NHEJ ,  ,Core ,DCLRE1C 
+Repair pathway ,DSR ,NHEJ ,  ,Core ,LIG4 
+Repair pathway ,DSR ,NHEJ ,  ,Core ,NHEJ1 
+Repair pathway ,DSR ,NHEJ ,  ,Core ,PRKDC 
+Repair pathway ,DSR ,NHEJ ,  ,Core ,XRCC5 
+Repair pathway ,DSR ,NHEJ ,  ,Core ,XRCC6 
+Repair pathway ,DSR ,NHEJ ,  ,DNA ligase 4 complex ,LIG4 
+Repair pathway ,DSR ,NHEJ ,  ,DNA ligase 4 complex ,NHEJ1 
+Repair pathway ,DSR ,NHEJ ,  ,DNA ligase 4 complex ,XRCC4 
+Repair pathway ,DSR ,NHEJ ,  ,DNA-PK complex ,PRKDC 
+Repair pathway ,DSR ,NHEJ ,  ,DNA-PK complex ,XRCC5 
+Repair pathway ,DSR ,NHEJ ,  ,DNA-PK complex ,XRCC6 
+Repair pathway ,DSR ,NHEJ ,  ,End processing ,PNKP 
+Repair pathway ,DSR ,NHEJ ,  ,End processing ,POLL 
+Repair pathway ,DSR ,NHEJ ,  ,End processing ,POLM 
+Repair pathway ,DSR ,NHEJ ,  ,MRX complex ,MRE11A 
+Repair pathway ,DSR ,NHEJ ,  ,MRX complex ,RAD50 
+Repair pathway ,DSR ,NHEJ ,  ,X-family DNA polymerases ,DNTT 
+Repair pathway ,DSR ,NHEJ ,  ,X-family DNA polymerases ,POLB 
+Repair pathway ,DSR ,NHEJ ,  ,X-family DNA polymerases ,POLL 
+Repair pathway ,DSR ,NHEJ ,  ,X-family DNA polymerases ,POLM 
+Repair pathway ,DSR ,NHEJ ,  ,  ,APLF 
+Repair pathway ,DSR ,NHEJ ,  ,  ,APTX 
+Repair pathway ,DSR ,NHEJ ,  ,  ,DCLRE1C 
+Repair pathway ,DSR ,NHEJ ,  ,  ,PARG 
+Repair pathway ,DSR ,NHEJ ,  ,  ,XRCC2 
+Repair pathway ,DSR ,NHEJ ,  ,  ,XRCC3 
+Repair pathway ,DSR ,Other DSR genes ,  ,BRCA1-A complex ,FAM175A 
+Repair pathway ,DSR ,Other DSR genes ,  ,  ,ANKRD28 
+Repair pathway ,DSR ,Other DSR genes ,  ,  ,ANKRD44 
+Repair pathway ,DSR ,Other DSR genes ,  ,  ,ANKRD52 
+Repair pathway ,DSR ,Other DSR genes ,  ,  ,EYA1 
+Repair pathway ,DSR ,Other DSR genes ,  ,  ,EYA3 
+Repair pathway ,DSR ,Other DSR genes ,  ,  ,NPM1 
+Repair pathway ,DSR ,Other DSR genes ,  ,  ,PPP6C 
+Repair pathway ,DSR ,Other DSR genes ,  ,  ,PPP6R1 
+Repair pathway ,DSR ,Other DSR genes ,  ,  ,PPP6R2 
+Repair pathway ,DSR ,Other DSR genes ,  ,  ,PPP6R3 
+Repair pathway ,DSR ,Other DSR genes ,  ,  ,SMARCAD1 
+Associated process ,Checkpoint factors ,damage in S phase ,  ,  ,MMS22L 
+Associated process ,Checkpoint factors ,damage in S phase ,  ,  ,TONSL 
+Associated process ,Checkpoint factors ,FPC (fork protection complex) ,  ,  ,TIMELESS 
+Associated process ,Checkpoint factors ,FPC (fork protection complex) ,  ,  ,TIPIN 
+Associated process ,Checkpoint factors ,G1-CC phase ,  ,CYCLINS ,CCNH 
+Associated process ,Checkpoint factors ,G1-CC phase ,  ,CYCLINS ,CCNA1 
+Associated process ,Checkpoint factors ,G1-CC phase ,  ,CYCLINS ,CCNB1 
+Associated process ,Checkpoint factors ,G1-CC phase ,  ,  ,ATM 
+Associated process ,Checkpoint factors ,G1-CC phase ,  ,  ,CDK2 
+Associated process ,Checkpoint factors ,G1-CC phase ,  ,  ,CDK4 
+Associated process ,Checkpoint factors ,G1-CC phase ,  ,  ,CDKN2D 
+Associated process ,Checkpoint factors ,G1-CC phase ,  ,  ,CHEK1 
+Associated process ,Checkpoint factors ,G1-CC phase ,  ,  ,CHEK2 
+Associated process ,Checkpoint factors ,G1-CC phase ,  ,  ,RAD50 
+Associated process ,Checkpoint factors ,G1-CC phase ,  ,  ,WEE1 
+Associated process ,Checkpoint factors ,G1-S checkpoint ,  ,CYCLINS ,CCND1 
+Associated process ,Checkpoint factors ,G1-S checkpoint ,  ,CYCLINS ,CCND2 
+Associated process ,Checkpoint factors ,G1-S checkpoint ,  ,CYCLINS ,CCND3 
+Associated process ,Checkpoint factors ,G1-S checkpoint ,  ,  ,ATM 
+Associated process ,Checkpoint factors ,G1-S checkpoint ,  ,  ,ATR 
+Associated process ,Checkpoint factors ,G1-S checkpoint ,  ,  ,ATRIP 
+Associated process ,Checkpoint factors ,G1-S checkpoint ,  ,  ,BRCA1 
+Associated process ,Checkpoint factors ,G1-S checkpoint ,  ,  ,CHEK1 
+Associated process ,Checkpoint factors ,G1-S checkpoint ,  ,  ,CHEK2 
+Associated process ,Checkpoint factors ,G1-S checkpoint ,  ,  ,KAT2A 
+Associated process ,Checkpoint factors ,G1-S checkpoint ,  ,  ,RBBP8 
+Associated process ,Checkpoint factors ,G2-CC phase ,  ,  ,CDC25B 
+Associated process ,Checkpoint factors ,G2-CC phase ,  ,  ,WEE1 
+Associated process ,Checkpoint factors ,G2-M checkpoint ,  ,  ,ABL1 
+Associated process ,Checkpoint factors ,G2-M checkpoint ,  ,  ,BRCA1 
+Associated process ,Checkpoint factors ,G2-M checkpoint ,  ,  ,CDC25A 
+Associated process ,Checkpoint factors ,G2-M checkpoint ,  ,  ,CLSPN 
+Associated process ,Checkpoint factors ,G2-M checkpoint ,  ,  ,GADD45A 
+Associated process ,Checkpoint factors ,G2-M checkpoint ,  ,  ,GADD45G 
+Associated process ,Checkpoint factors ,G2-M checkpoint ,  ,  ,KAT2A 
+Associated process ,Checkpoint factors ,G2-M checkpoint ,  ,  ,TOPBP1 
+Associated process ,Checkpoint factors ,G2-M checkpoint ,  ,  ,TP73 
+Associated process ,Checkpoint factors ,HRAD17(Rad24)RFC complex ,  ,RAFC3_5 ,RFC3 
+Associated process ,Checkpoint factors ,HRAD17(Rad24)RFC complex ,  ,RAFC3_5 ,RFC5 
+Associated process ,Checkpoint factors ,HRAD17(Rad24)RFC complex ,  ,RFC2_4 ,RFC2 
+Associated process ,Checkpoint factors ,HRAD17(Rad24)RFC complex ,  ,RFC2_4 ,RFC4 
+Associated process ,Checkpoint factors ,HRAD17(Rad24)RFC complex ,  ,  ,RAD17 
+Associated process ,Checkpoint factors ,Rad17-Mec3-Ddc1 complex ,  ,  ,RAD1 
+Associated process ,Checkpoint factors ,RAD9-Hus1-Rad1 complex ,  ,  ,HUS1 
+Associated process ,Checkpoint factors ,RAD9-Hus1-Rad1 complex ,  ,  ,HUS1B 
+Associated process ,Checkpoint factors ,RAD9-Hus1-Rad1 complex ,  ,  ,RAD1 
+Associated process ,Checkpoint factors ,RAD9-Hus1-Rad1 complex ,  ,  ,RAD9A 
+Associated process ,Checkpoint factors ,RAD9-Hus1-Rad1 complex ,  ,  ,RAD9B 
+Associated process ,Checkpoint factors ,S-CC phase ,  ,CYCLIN ,CCNH 
+Associated process ,Checkpoint factors ,S-CC phase ,  ,  ,POLA1 
+Associated process ,Checkpoint factors ,  ,  ,CYCLINS ,CCNA2 
+Associated process ,Checkpoint factors ,  ,  ,CYCLINS ,CCNB2 
+Associated process ,Checkpoint factors ,  ,  ,CYCLINS ,CCNB3 
+Associated process ,Checkpoint factors ,  ,  ,CYCLINS ,CCNC 
+Associated process ,Checkpoint factors ,  ,  ,  ,AMN1 
+Associated process ,Checkpoint factors ,  ,  ,  ,BRCC3 
+Associated process ,Checkpoint factors ,  ,  ,  ,CDKN1A 
+Associated process ,Checkpoint factors ,  ,  ,  ,MDC1 
+Associated process ,Checkpoint factors ,  ,  ,  ,PER1 
+Associated process ,Checkpoint factors ,  ,  ,  ,PER2 
+Associated process ,Checkpoint factors ,  ,  ,  ,PER3 
+Associated process ,Checkpoint factors ,  ,  ,  ,TP53BP1 
+Associated process ,Chromatin remodelling ,  ,  ,ACF ,BAZ1A 
+Associated process ,Chromatin remodelling ,  ,  ,ACF ,SMARCA5 
+Associated process ,Chromatin remodelling ,  ,  ,BAF (SWI/SNF-A) ,ARID1A 
+Associated process ,Chromatin remodelling ,  ,  ,BAF (SWI/SNF-A) ,ARID1B 
+Associated process ,Chromatin remodelling ,  ,  ,BAF (SWI/SNF-A) ,PBRM1 
+Associated process ,Chromatin remodelling ,  ,  ,BAF (SWI/SNF-A) ,SMARCA2 
+Associated process ,Chromatin remodelling ,  ,  ,BAF (SWI/SNF-A) ,SMARCA4 
+Associated process ,Chromatin remodelling ,  ,  ,BAF (SWI/SNF-A) ,SMARCB1 
+Associated process ,Chromatin remodelling ,  ,  ,BAF (SWI/SNF-A) ,SMARCC1 
+Associated process ,Chromatin remodelling ,  ,  ,BAF (SWI/SNF-A) ,SMARCC2 
+Associated process ,Chromatin remodelling ,  ,  ,BAF (SWI/SNF-A) ,SMARCD1 
+Associated process ,Chromatin remodelling ,  ,  ,BAF (SWI/SNF-A) ,SMARCE1 
+Associated process ,Chromatin remodelling ,  ,  ,CHRAC ,BAZ1A 
+Associated process ,Chromatin remodelling ,  ,  ,CHRAC ,CHRAC1 
+Associated process ,Chromatin remodelling ,  ,  ,CHRAC ,POLE3 
+Associated process ,Chromatin remodelling ,  ,  ,CHRAC ,SMARCA5 
+Associated process ,Chromatin remodelling ,  ,  ,INO80 ,ACTL6A 
+Associated process ,Chromatin remodelling ,  ,  ,INO80 ,ACTR5 
+Associated process ,Chromatin remodelling ,  ,  ,INO80 ,ACTR8 
+Associated process ,Chromatin remodelling ,  ,  ,INO80 ,INO80 
+Associated process ,Chromatin remodelling ,  ,  ,INO80 ,INO80B 
+Associated process ,Chromatin remodelling ,  ,  ,INO80 ,INO80C 
+Associated process ,Chromatin remodelling ,  ,  ,INO80 ,INO80D 
+Associated process ,Chromatin remodelling ,  ,  ,INO80 ,INO80E 
+Associated process ,Chromatin remodelling ,  ,  ,INO80 ,MCRS1 
+Associated process ,Chromatin remodelling ,  ,  ,INO80 ,NFRKB 
+Associated process ,Chromatin remodelling ,  ,  ,INO80 ,RUVBL1 
+Associated process ,Chromatin remodelling ,  ,  ,INO80 ,RUVBL2 
+Associated process ,Chromatin remodelling ,  ,  ,INO80 ,TFPT 
+Associated process ,Chromatin remodelling ,  ,  ,PBAF (SWI/SNF-B) ,ARID2 
+Associated process ,Chromatin remodelling ,  ,  ,PBAF (SWI/SNF-B) ,BRD7 
+Associated process ,Chromatin remodelling ,  ,  ,PBAF (SWI/SNF-B) ,PBRM1 
+Associated process ,Chromatin remodelling ,  ,  ,PBAF (SWI/SNF-B) ,SMARCA4 
+Associated process ,Chromatin remodelling ,  ,  ,PBAF (SWI/SNF-B) ,SMARCB1 
+Associated process ,Chromatin remodelling ,  ,  ,PBAF (SWI/SNF-B) ,SMARCC1 
+Associated process ,Chromatin remodelling ,  ,  ,PBAF (SWI/SNF-B) ,SMARCC2 
+Associated process ,Chromatin remodelling ,  ,  ,PBAF (SWI/SNF-B) ,SMARCD1 
+Associated process ,Chromatin remodelling ,  ,  ,PBAF (SWI/SNF-B) ,SMARCE1 
+Associated process ,Chromosome segregation ,  ,  ,Cohesion ,PDS5A 
+Associated process ,Chromosome segregation ,  ,  ,Cohesion ,PDS5B 
+Associated process ,Chromosome segregation ,  ,  ,Cohesion ,RAD21 
+Associated process ,Chromosome segregation ,  ,  ,Cohesion ,SMC1A 
+Associated process ,Chromosome segregation ,  ,  ,Cohesion ,SMC1B 
+Associated process ,Chromosome segregation ,  ,  ,Cohesion ,SMC3 
+Associated process ,Chromosome segregation ,  ,  ,Cohesion ,STAG1 
+Associated process ,Chromosome segregation ,  ,  ,Cohesion ,STAG2 
+Associated process ,Chromosome segregation ,  ,  ,Condensin ,NCAPD2 
+Associated process ,Chromosome segregation ,  ,  ,Condensin ,NCAPD3 
+Associated process ,Chromosome segregation ,  ,  ,Condensin ,NCAPG 
+Associated process ,Chromosome segregation ,  ,  ,Condensin ,NCAPG2 
+Associated process ,Chromosome segregation ,  ,  ,Condensin ,NCAPH 
+Associated process ,Chromosome segregation ,  ,  ,Condensin ,NCAPH2 
+Associated process ,Chromosome segregation ,  ,  ,Condensin ,SMC2 
+Associated process ,Chromosome segregation ,  ,  ,Condensin ,SMC4 
+Associated process ,DNA replication,  ,  ,DNA topoisomerase I,TOP1 
+Associated process ,DNA replication,  ,  ,DNA topoisomerase II,TOP2A 
+Associated process ,DNA replication,  ,  ,DNA topoisomerase II,TOP2B 
+Associated process ,Modulation of nucleotide pools ,  ,  ,  ,DUT 
+Associated process ,Modulation of nucleotide pools ,  ,  ,  ,NUDT1 
+Associated process ,Modulation of nucleotide pools ,  ,  ,  ,RRM1 
+Associated process ,Modulation of nucleotide pools ,  ,  ,  ,RRM2 
+Associated process ,Modulation of nucleotide pools ,  ,  ,  ,RRM2B 
+Associated process ,Modulation of nucleotide pools ,  ,  ,  ,TYMS 
+Associated process ,p53 pathway ,  ,  ,Cyclin D/Cdk4 complex ,CCND1 
+Associated process ,p53 pathway ,  ,  ,Cyclin D/Cdk4 complex ,CDK4 
+Associated process ,p53 pathway ,  ,  ,Cyclin E /CDK2 complex ,CCNE1 
+Associated process ,p53 pathway ,  ,  ,Cyclin E /CDK2 complex ,CDK2 
+Associated process ,p53 pathway ,  ,  ,  ,CDKN1A 
+Associated process ,p53 pathway ,  ,  ,  ,MDM2 
+Associated process ,p53 pathway ,  ,  ,  ,TP53 
+Associated process ,p53 pathway ,  ,  ,  ,TP73 
+Associated process ,p53 pathway  ,  ,  ,  ,CDKN2A 
+Associated process ,Telomere maintenance ,Alternative mechanism,MRN Complex ,  ,MRE11A 
+Associated process ,Telomere maintenance ,Alternative mechanism,MRN Complex ,  ,NBN 
+Associated process ,Telomere maintenance ,Alternative mechanism,MRN Complex ,  ,RAD50 
+Associated process ,Telomere maintenance ,  ,  ,Chromatin remodelling protein ,ATRX 
+Associated process ,Telomere maintenance ,  ,  ,Chromatin remodelling protein ,DAXX 
+Associated process ,Telomere maintenance ,  ,  ,CST complex ,CTC1 
+Associated process ,Telomere maintenance ,  ,  ,CST complex ,OBFC1 
+Associated process ,Telomere maintenance ,  ,  ,CST complex ,TEN1 
+Associated process ,Telomere maintenance ,  ,  ,Shelterin ,ACD 
+Associated process ,Telomere maintenance ,  ,  ,Shelterin ,POT1 
+Associated process ,Telomere maintenance ,  ,  ,Shelterin ,TERF1 
+Associated process ,Telomere maintenance ,  ,  ,Shelterin ,TERF2 
+Associated process ,Telomere maintenance ,  ,  ,Shelterin ,TERF2IP 
+Associated process ,Telomere maintenance ,  ,  ,Shelterin ,TERT 
+Associated process ,Telomere maintenance ,  ,  ,Shelterin ,TINF2 
+Associated process ,Telomere maintenance ,  ,  ,telomerase holoenzyme complex ,DKC1 
+Associated process ,Telomere maintenance ,  ,  ,telomerase holoenzyme complex ,GAR1 
+Associated process ,Telomere maintenance ,  ,  ,telomerase holoenzyme complex ,NHP2 
+Associated process ,Telomere maintenance ,  ,  ,telomerase holoenzyme complex ,NOP10 
+Associated process ,Telomere maintenance ,  ,  ,telomerase holoenzyme complex ,POT1 
+Associated process ,Telomere maintenance ,  ,  ,telomerase holoenzyme complex ,SMG6 
+Associated process ,Telomere maintenance ,  ,  ,telomerase holoenzyme complex ,TEP1 
+Associated process ,Telomere maintenance ,  ,  ,telomerase holoenzyme complex ,TERT 
+Associated process ,Telomere maintenance ,  ,  ,telomerase holoenzyme complex ,WRAP53 
+Associated process ,Telomere maintenance ,  ,  ,vault ribonucleoprotein particle,MVP 
+Associated process ,Telomere maintenance ,  ,  ,vault ribonucleoprot ein particle ,PARP4 
+Associated process ,Telomere maintenance ,  ,  ,  ,BLM 
+Associated process ,Telomere maintenance ,  ,  ,  ,DCLRE1B 
+Associated process ,Telomere maintenance ,  ,  ,  ,SMG6 
+Associated process ,Telomere maintenance ,  ,  ,  ,TELO2 
+Associated process ,Telomere maintenance ,  ,  ,  ,TNKS 
+Repair pathway ,Associated process ,TLS ,DNA polymerases ,  ,POLQ 
+Repair pathway ,Associated process ,TLS ,epistasis group ,  ,HLTF 
+Repair pathway ,Associated process ,TLS ,epistasis group ,  ,RAD18 
+Repair pathway ,Associated process ,TLS ,epistasis group ,  ,UBE2A 
+Repair pathway ,Associated process ,TLS ,epistasis group ,  ,UBE2B 
+Repair pathway ,Associated process ,TLS ,epistasis group ,  ,UBE2N 
+Repair pathway ,Associated process ,TLS ,epistasis group ,  ,UBE2V2 
+Repair pathway ,Associated process ,TLS ,Y-family DNA polymerases ,  ,MAD2L2 
+Repair pathway ,Associated process ,TLS ,Y-family DNA polymerases ,  ,POLH 
+Repair pathway ,Associated process ,TLS ,Y-family DNA polymerases ,  ,POLI 
+Repair pathway ,Associated process ,TLS ,Y-family DNA polymerases ,  ,POLK 
+Repair pathway ,Associated process ,TLS ,Y-family DNA polymerases ,  ,REV1 
+Repair pathway ,Associated process ,TLS ,Y-family DNA polymerases ,  ,REV3L 
+Repair pathway ,Associated process ,TLS ,  ,  ,PCNA 
+Repair pathway ,Associated process ,TLS ,  ,  ,POLM 
+Repair pathway ,Associated process ,TLS ,  ,  ,POLN 
+Repair pathway ,Associated process ,TLS ,  ,  ,SHPRH 
+Repair pathway ,Associated process ,TLS ,  ,  ,USP1 
+Repair pathway ,Associated process ,TLS ,  ,  ,WDR48 
+Associated process ,Topisomeras e damage reversal ,  ,  ,  ,TDP1 
+Associated process ,Topisomeras e damage reversal ,  ,  ,  ,TDP2 
+Associated process ,Ubiquitin response ,Deubiquitinating enzyme (DUB) ,UBL-specific proteases (ULPs) ,COP9 signalosome complex ,COPS7A 
+Associated process ,Ubiquitin response ,Deubiquitinating enzyme (DUB) ,UBL-specific proteases (ULPs) ,COP9 signalosome complex ,COPS2 
+Associated process ,Ubiquitin response ,Deubiquitinating enzyme (DUB) ,UBL-specific proteases (ULPs) ,COP9 signalosome complex ,COPS3 
+Associated process ,Ubiquitin response ,Deubiquitinating enzyme (DUB) ,UBL-specific proteases (ULPs) ,COP9 signalosome complex ,COPS4 
+Associated process ,Ubiquitin response ,Deubiquitinating enzyme (DUB) ,UBL-specific proteases (ULPs) ,COP9 signalosome complex ,COPS5 
+Associated process ,Ubiquitin response ,Deubiquitinating enzyme (DUB) ,UBL-specific proteases (ULPs) ,COP9 signalosome complex ,COPS6 
+Associated process ,Ubiquitin response ,Deubiquitinating enzyme (DUB) ,UBL-specific proteases (ULPs) ,COP9 signalosome complex ,COPS7B 
+Associated process ,Ubiquitin response ,Deubiquitinating enzyme (DUB) ,UBL-specific proteases (ULPs) ,COP9 signalosome complex ,COPS8 
+Associated process ,Ubiquitin response ,Deubiquitinating enzyme (DUB) ,UBL-specific proteases (ULPs) ,COP9 signalosome complex ,GPS1 
+Associated process ,Ubiquitin response ,Ubiquitin ligases (E3) ,Other single Ringfinger type E3 ,  ,RNF4 
+Associated process ,Ubiquitin response ,Ubiquitin ligases (E3) ,Riddle syndrome! ,  ,RNF168 
+Associated process ,Ubiquitin response ,Ubiquitin ligases (E3) ,single Ring-finger type E3 ,MDM2/MDM4 proteins  ,MDM2 
+Associated process ,Ubiquitin response ,Ubiquitin ligases (E3) ,single Ring-finger type E4 ,MDM2/MDM4 proteins ,MDM4 
+Associated process ,Ubiquitin response ,Ubiquitin ligases (E3) ,  ,  ,RAD18 
+Associated process ,Ubiquitin response ,Ubiquitin ligases (E3) ,  ,  ,RNF8 
+Associated process ,Ubiquitin response ,Ubiquitinactivating enzymes (E1) ,Ubiquitin activating enzyme ,  ,UBA1 
+Associated process ,Ubiquitin response ,Ubiquitinactivating enzymes (E1) ,UBL-activating enzymes ,  ,UBA2 
+Associated process ,Ubiquitin response ,Ubiquitinconjugating enzymes (E2) ,Ubiquitin-conjugating enzymes ,  ,UBE2B 
+Associated process ,Ubiquitin response ,Ubiquitinconjugating enzymes (E2) ,Ubiquitin-conjugating enzymes ,  ,UBE2N 
+Associated process ,Ubiquitin response ,Ubiquitinconjugating enzymes (E2) ,Ubiquitin-conjugating enzymes ,  ,UBE2NL 
+Associated process ,Ubiquitin response ,Ubiquitinconjugating enzymes (E2) ,Ubiquitin-conjugating enzymes ,  ,UBE2V2 
+Associated process ,Ubiquitin response ,Ubiquitinconjugating enzymes (E2) ,UBL-conjugating enzymes ,  ,UBE2I 
+Associated process ,Ubiquitin response ,Ubiquitin-like proteins (UBLs) ,SUMO ,  ,SUMO1 
+Associated process ,Ubiquitin response ,Ubiquitin-like proteins (UBLs) ,SUMO ,  ,SUMO2 
+Associated process ,Ubiquitin response ,Ubiquitin-like proteins (UBLs) ,SUMO ,  ,SUMO3 
+Associated process ,Ubiquitin response ,Ubiquitin-like proteins (UBLs) ,SUMO ,  ,SUMO4 
+Associated process ,Ubiquitin response ,Ubiquitins and Ubiquitin-like proteins ,Ubiquitins ,  ,UBB 
+Associated process ,Ubiquitin response ,Ubiquitins and Ubiquitin-like proteins ,Ubiquitins ,  ,UBC 
+Associated process ,Ubiquitin response ,Ubiquitins and Ubiquitin-like proteins ,Ubiquitins ,  ,UBD 
+Genes with probable DDR role,Direct Repair (not in humans)  ,  ,  ,Cryptochrome ,CRY1 
+Genes with probable DDR role,Direct Repair (not in humans)  ,  ,  ,Cryptochrome ,CRY2 
+Genes with probable DDR role,  ,  ,  ,CYCLIN ,CCNO 
+Genes with probable DDR role,  ,  ,  ,DNA polymerases ,MYBBP1A 
+Genes with probable DDR role,  ,  ,  ,DNA polymerases ,PAPD7 
+Genes with probable DDR role,  ,  ,  ,Nucleases ,DCLRE1A 
+Genes with probable DDR role,  ,  ,  ,Nucleases ,TREX1 
+Genes with probable DDR role,  ,  ,  ,Nucleases ,TREX2 
+Genes with probable DDR role,  ,  ,  ,PSO4 complex ,BCAS2 
+Genes with probable DDR role,  ,  ,  ,PSO4 complex ,CDC5L 
+Genes with probable DDR role,  ,  ,  ,PSO4 complex ,PLRG1 
+Genes with probable DDR role,  ,  ,  ,PSO4 complex ,PRPF19 
+Genes with probable DDR role,  ,  ,  ,recombination reg ,RTEL1 
+Genes with probable DDR role,  ,  ,  ,  ,ASF1A 
+Genes with probable DDR role,  ,  ,  ,  ,ASF1B 
+Genes with probable DDR role,  ,  ,  ,  ,ATF2 
+Genes with probable DDR role,  ,  ,  ,  ,ATXN3 
+Genes with probable DDR role,  ,  ,  ,  ,BAZ1B 
+Genes with probable DDR role, , , , ,BAP1 
+Genes with probable DDR role,  ,  ,  ,  ,BTG2 
+Genes with probable DDR role,  ,  ,  ,  ,CHAF1A 
+Genes with probable DDR role,  ,  ,  ,  ,CIB1 
+Genes with probable DDR role,  ,  ,  ,  ,CLK2 
+Genes with probable DDR role,  ,  ,  ,  ,CNOT7 
+Genes with probable DDR role,  ,  ,  ,  ,CSNK1D 
+Genes with probable DDR role,  ,  ,  ,  ,CSNK1E 
+Genes with probable DDR role,  ,  ,  ,  ,DDX11 
+Genes with probable DDR role,  ,  ,  ,  ,DLGAP5 
+Genes with probable DDR role,  ,  ,  ,  ,DMC1 
+Genes with probable DDR role,  ,  ,  ,  ,DNMT1 
+Genes with probable DDR role,  ,  ,  ,  ,FBXO18 
+Genes with probable DDR role,,,,,H2AFZ
+Genes with probable DDR role,  ,  ,  ,  ,HINFP 
+Genes with probable DDR role,,,,,
+Genes with probable DDR role,,,,,
+Genes with probable DDR role,  ,  ,  ,  ,IGHMBP2 
+Genes with probable DDR role,,,,,
+Genes with probable DDR role,,,,,
+Genes with probable DDR role,  ,  ,  ,  ,IP6K3 
+Genes with probable DDR role,  ,  ,  ,  ,MEN1 
+Genes with probable DDR role,  ,  ,  ,  ,MMS19 
+Genes with probable DDR role,  ,  ,  ,  ,MPLKIP 
+Genes with probable DDR role,  ,  ,  ,  ,MTOR 
+Genes with probable DDR role,  ,  ,  ,  ,NABP1 
+Genes with probable DDR role,,,,,
+Genes with probable DDR role,  ,  ,  ,  ,PARPBP 
+Genes with probable DDR role,  ,  ,  ,  ,PIAS1 
+Genes with probable DDR role,  ,  ,  ,  ,PIAS2 
+Genes with probable DDR role,  ,  ,  ,  ,PIAS3 
+Genes with probable DDR role,  ,  ,  ,  ,PIAS4 
+Genes with probable DDR role,  ,  ,  ,  ,PINX1 
+Genes with probable DDR role,  ,  ,  ,  ,PMS2P5 
+Genes with probable DDR role,  ,  ,  ,  ,POLG 
+Genes with probable DDR role,  ,  ,  ,  ,POLG2 
+Genes with probable DDR role,  ,  ,  ,  ,POLS 
+Genes with probable DDR role,  ,  ,  ,  ,PRKCG 
+Genes with probable DDR role,  ,  ,  ,  ,PRMT6 
+Genes with probable DDR role,  ,  ,  ,  ,RASSF7 
+Genes with probable DDR role,,,,,
+Genes with probable DDR role,  ,  ,  ,  ,RPAIN 
+Genes with probable DDR role,  ,  ,  ,  ,RPS27L 
+Genes with probable DDR role,  ,  ,  ,  ,SETMAR 
+Genes with probable DDR role,  ,  ,  ,  ,SETX 
+Genes with probable DDR role,  ,  ,  ,  ,SFR1 
+Genes with probable DDR role,  ,  ,  ,  ,SIRT1 
+Genes with probable DDR role,  ,  ,  ,  ,SLX1B 
+Genes with probable DDR role, , , , ,SMARCAL1 
+Genes with probable DDR role,  ,  ,  ,  ,SMEK2 
+Genes with probable DDR role,  ,  ,  ,  ,SOD1 
+Genes with probable DDR role,,,,,
+Genes with probable DDR role,  ,  ,  ,  ,TADA3 
+Genes with probable DDR role,  ,  ,  ,  ,TCEA1 
+Genes with probable DDR role,  ,  ,  ,  ,TNP1 
+Genes with probable DDR role,  ,  ,  ,  ,TRIM28 
+Genes with probable DDR role,,,,,
+Genes with probable DDR role,  ,  ,  ,  ,TTI1 
+Genes with probable DDR role,  ,  ,  ,  ,TTI2 
+Genes with probable DDR role,  ,  ,  ,  ,UBE2V1 
+Genes with probable DDR role,  ,  ,  ,  ,UBE2V2 
+Genes with probable DDR role,  ,  ,  ,  ,UPF1 
+Genes with probable DDR role,  ,  ,  ,  ,UVRAG 
+Genes with probable DDR role,  ,  ,  ,  ,VCP 
+Genes with probable DDR role,  ,  ,  ,  ,XRCC6BP1 
+Genes with probable DDR role,  ,  ,  ,  ,YBX1 
+Genes with probable DDR role, , , , ,ZRANB3 
