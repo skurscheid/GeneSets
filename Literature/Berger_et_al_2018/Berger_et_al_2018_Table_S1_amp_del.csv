@@ -1,0 +1,62 @@
+﻿Lesion_Location,Type,Reported_in_marker_papers,Enriched_in_Pan-Gyn_vs_non-Gyn,Potential_driver_genes
+1p22.3,amp,,Yes,unknown
+1p34.2,amp,,Yes,MYCL1
+1q21.3,amp,,,MCL1
+1q42.3,amp,No,Yes,unknown. Suspect gene IRF2BP2
+3q26.2,amp,,Yes,MECOM
+5p15.33,amp,No,,TERT
+6p24.2,amp,,Yes,NEDD9
+6q21,amp,,Yes,unknown
+7q36.3,amp,,Yes,unknown
+8p11.21,amp,,Yes,KAT6A
+8p11.23,amp,,,FGFR1
+8q24.21,amp,,,MYC
+10p15.1,amp,No,Yes,Potential superenhancer for KLF6. Suspect gene PFKFB3
+10q22.2,amp,,Yes,KAT6B
+11q13.3,amp,,,CCND1
+12p12.1,amp,,,KRAS
+12p13.33,amp,No,,KDM5A
+12q15,amp,,,MDM2/FRS2
+13q34,amp,,,CUL4A
+15q26.3,amp,,,IGF1R
+17q12,amp,,,ERBB2
+17q25.1,amp,,,unknown
+19p13.12,amp,,Yes,BRD4
+19q12,amp,,,CCNE1
+19q13.2,amp,,Yes,unknown
+20q13.2,amp,,,ZNF217
+Xq28,amp,No,,HCFC1
+1p36.11,del,,Yes,unknown
+2q22.1,del,,,LRP1B
+2q37.3,del,,,unknown
+3p14.2,del,,,FHIT
+4p16.3,del,,,unknown
+4q22.1,del,,,FAM190A
+4q34.3,del,,,LINC00290
+5q11.2,del,,,PDE4D
+6q26,del,,,PARK2
+7p22.3,del,,Yes,NUDT1
+7q36.1,del,,,MLL3
+8p21.3,del,,,[overlaps with 8p23.2]
+8p23.2,del,,,CSMD1
+9p21.3,del,,,CDKN2A
+9q34.3,del,No,Yes,unknown. Suspect genes TSC1 and NOTCH1
+10q23.31,del,No,,PTEN
+10q26.3,del,No,,unknown
+11p15.5,del,,,unknown
+11q23.2,del,No,,unknown
+11q25,del,,,unknown
+12p13.1,del,No,,CDKN1B
+12q23.1,del,,Yes,ANKS1B [fragile site]
+13q14.2,del,,,RB1
+14q24.1,del,No,,RAD51B [fragile site]
+15q15.1,del,,,unknown
+16q23.1,del,,,WWOX
+17p12,del,,Yes,MAP2K4
+17q11.2,del,,Yes,NF1
+18q23,del,,,unknown
+19p13.3,del,,,STK11
+19q13.32,del,,,unknown
+20p12.1,del,,,MACROD2
+22q13.32,del,,,unknown
+Xp21.1,del,,,DMD
